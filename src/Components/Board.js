@@ -51,7 +51,7 @@ if(state[index] != null ){
 
   return (
     <div className='board-container'>
-        {isWinner ? <><h2>{isWinner} Won the game</h2> 
+        {isWinner ? <><h2>Player {isWinner} Won the game</h2> 
          <button onClick={handleReset} >Play Again</button>
          </>: 
         <>
