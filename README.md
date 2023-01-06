@@ -1,11 +1,10 @@
  hosting link = https://tic-toc-t.netlify.app/
  
  
-![Screenshot (230)](https://user-images.githubusercontent.com/32057541/211012168-6d9ee718-ea21-4273-ae1d-87a0d08e655a.png)
+ ![Screenshot (234)](https://user-images.githubusercontent.com/32057541/211012848-38aed6f1-fdca-467e-aa3e-94b8fb68f57b.png)
+ 
 
-
-
-![Screenshot (231)](https://user-images.githubusercontent.com/32057541/211012208-a7b0314e-b6dd-4ec2-a2b8-b0ae07ddf4d9.png)
+![Screenshot (235)](https://user-images.githubusercontent.com/32057541/211012928-9085a069-584b-4bbb-b3f9-bdc0befd8b93.png)
 
 
 ![Screenshot (233)](https://user-images.githubusercontent.com/32057541/211012254-bf1f0a71-ae58-4d03-9646-10b558bc20bc.png)
