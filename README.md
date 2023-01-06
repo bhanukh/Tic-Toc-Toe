@@ -1,3 +1,17 @@
+ hosting link = https://tic-toc-t.netlify.app/
+ 
+ 
+![Screenshot (230)](https://user-images.githubusercontent.com/32057541/211012168-6d9ee718-ea21-4273-ae1d-87a0d08e655a.png)
+
+
+
+![Screenshot (231)](https://user-images.githubusercontent.com/32057541/211012208-a7b0314e-b6dd-4ec2-a2b8-b0ae07ddf4d9.png)
+
+
+![Screenshot (233)](https://user-images.githubusercontent.com/32057541/211012254-bf1f0a71-ae58-4d03-9646-10b558bc20bc.png)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
